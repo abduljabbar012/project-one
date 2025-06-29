@@ -1,0 +1,32 @@
+.border{
+    height: 40px;
+    width: 90px;
+}
+.border:hover{
+    background-color: antiquewhite;
+}
+.hero{
+    background-image: url("https://flightexpert.com/_next/static/media/webban.495c2ffa.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 900px;
+}
+.background-img{
+    background-color: rgb(145, 8, 8);
+    height: 350px;
+    width:auto ;
+}
+.background-header h1{
+    color: white;
+    margin-top:100px;
+}
+.background-header p{
+   padding: 10px;
+    color: white;
+}
+.background-header{
+    padding: 10px;
+    margin: 100px;
+    width: 480px;
+}
